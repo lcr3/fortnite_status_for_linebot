@@ -1,0 +1,10 @@
+# OS X noise
+.DS_Store
+
+# svn noise
+.svn
+
+# emacs noise
+*~
+
+.vscode
